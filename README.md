@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">A beginner frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **The Complete JavaScript Course 2023: From Zero to Expert! by Jonas Schmedtmann(https://ua.udemy.com/user/jonasschmedtmann/)**
+- 🌱 I’m currently learning **The Complete JavaScript Course 2023: From Zero to Expert! by <a href="https://ua.udemy.com/user/jonasschmedtmann/">Jonas Schmedtmann</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
