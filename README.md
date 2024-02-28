@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Maksym</h1>
 <h2 align="left">A beginner frontend developer from Ukraine</h2>
 
-- 🌱 I’m currently learning: **The Complete JavaScript Course 2023: From Zero to Expert! by <a href="https://twitter.com/jonasschmedtman"> Jonas Schmedtmann </a>**
+- 🌱 I recently graduated: **The Complete JavaScript Course 2023: From Zero to Expert! by <a href="https://twitter.com/jonasschmedtman"> Jonas Schmedtmann </a>** Last cource project <a href="forkify-educational-project.netlify.app"> Forkify. Search recipe app </a>
 - 👨‍💻 My last project **<a href="https://github.com/maksimkedys/GodOfWar"> God of War: Ragnarok </a> Landing page**
 
 <h3 align="left">Languages and Tools:</h3>
