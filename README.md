@@ -3,7 +3,7 @@
 
 - 🌱 I recently graduated: **<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-b93b0372-bcab-4470-a0ec-45546c045ee8.pdf">The Complete JavaScript Course 2023: From Zero to Expert!</a> by <a href="https://twitter.com/jonasschmedtman"> Jonas Schmedtmann </a>**
 - Last cource project <a href="https://forkify-educational-project.netlify.app/"> Forkify. Search recipe app </a>
-- 👨‍💻 My last project **<a href="https://github.com/maksimkedys/GodOfWar"> God of War: Ragnarok </a> Landing page**
+- 👨‍💻 My last project **<a href="https://github.com/maksimkedys/WorldWise-React-Router-SPA">WorldWise-React-Router</a> Single Page Application**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
