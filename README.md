@@ -1,31 +1,62 @@
-<h1 align="left">Hi 👋, I'm Maksym</h1>
-<h2 align="left">A beginner frontend developer from Ukraine</h2>
+# Hello i'm Maksym Kedys - Front-End Developer
 
-- 🌱 I recently graduated: **<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-b93b0372-bcab-4470-a0ec-45546c045ee8.pdf">The Complete JavaScript Course 2023: From Zero to Expert!</a> by <a href="https://twitter.com/jonasschmedtman"> Jonas Schmedtmann </a>**
-- Last cource project <a href="https://forkify-educational-project.netlify.app/"> Forkify. Search recipe app </a>
-- 👨‍💻 My last project **<a href="https://github.com/maksimkedys/WorldWise-React-Router-SPA">WorldWise-React-Router</a> Single Page Application**
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
+I am an ambitious self-taught front-end developer with solid foundational knowledge of HTML, CSS, JavaScript, and React. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
+
+- **Location:** Kyiv, Ukraine
+- **Email:** [maksymkedys@gmail.com](mailto:maksymkedys@gmail.com)
+- **LinkedIn:** [Maksym Kedys](https://www.linkedin.com/in/maksymkedys/)
+- **GitHub:** [maksimkedys](https://github.com/maksimkedys)
+
+## Skills
+
+- **Languages:**
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+- **Frameworks/Libraries:**
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  
+- **Tools:**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+## Education
+
+**National Aviation University**  
+BSc in Automation and Computer-Integrated Technologies (2021 - 2025)
+
+## Certifications
+
+- **The Complete JavaScript Course 2023: From Zero to Expert**  
+  [Certificate](https://ua.udemy.com/certificate/UC-b93b0372-bcab-4470-a0ec-45546c045ee8/)
+
+## Projects
+
+### [Forkify - Educational JS Project](https://github.com/maksimkedys/forkify-educational-JS-project)
+- **Technologies:** HTML5, SCSS, Parcel, JavaScript, Forkify API
+- **Description:** Developed a recipe search and bookmarking application using JavaScript. Implemented API integration for fetching and displaying recipe data. Enhanced user experience with responsive design and interactive UI elements.
+- **Live Demo:** [Forkify](http://forkify-educational-project.netlify.app/)
+
+### [God of War - Single Landing Page](https://github.com/maksimkedys/GodOfWar)
+- **Technologies:** HTML5, SCSS, GULP, JavaScript, Swiper.js
+- **Description:** Developed a landing page for the release of God of War Ragnarök. Utilized CSS animations and JavaScript for interactive elements and enhanced visual appeal. Implemented a fully responsive design optimized for various devices and screen sizes.
+- **Live Demo:** [God of War](http://maksimkedys.github.io/GodOfWar/)
+
+### [WorldWise - React Router SPA](https://github.com/maksimkedys/WorldWise-React-Router-SPA)
+- **Technologies:** HTML5, CSS3, JavaScript (ES6+), React, React Router, Context API, Styled Components
+- **Description:** Created a single-page application (SPA) using React and React Router. Integrated Context API for state management and Styled Components for UI styling. Ensured seamless navigation and dynamic content rendering without page reloads.
+- **Live Demo:** [WorldWise](http://worldwise-react-router-spa.netlify.app/)
+
+## Languages
+
+- **English:** Intermediate (B1+)
+- **Ukrainian:** Native
