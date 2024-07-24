@@ -52,7 +52,7 @@ BSc in Automation and Computer-Integrated Technologies (2021 - 2025)
 - **Live Demo:** [God of War](http://maksimkedys.github.io/GodOfWar/)
 
 ### [WorldWise - React Router SPA](https://github.com/maksimkedys/WorldWise-React-Router-SPA)
-- **Technologies:** HTML5, CSS3, JavaScript (ES6+), React, React Router, Context API, Styled Components
+- **Technologies:** HTML5, CSS3, JavaScript (ES6+), React, React Router, Context API
 - **Description:** Created a single-page application (SPA) using React and React Router. Integrated Context API for state management and Styled Components for UI styling. Ensured seamless navigation and dynamic content rendering without page reloads.
 - **Live Demo:** [WorldWise](http://worldwise-react-router-spa.netlify.app/)
 
