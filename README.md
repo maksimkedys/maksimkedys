@@ -16,18 +16,30 @@ I am an ambitious self-taught front-end developer with solid foundational knowle
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br><br>
+  
   <strong>Frameworks/Libraries:</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API">
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"><br><br>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"> <br>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <br><br>
+  
   <strong>Tools:</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"><br><br>
+  
+  <strong>Methodologies:</strong><br>
+  <img src="https://img.shields.io/badge/BEM-764ABC?style=for-the-badge&logo=bem&logoColor=white" alt="BEM">
+  <img src="https://img.shields.io/badge/CSS_Modules-181717?style=for-the-badge&logo=css-modules&logoColor=white" alt="CSS Modules">
 </p>
+
 
 ## Education
 
@@ -37,7 +49,10 @@ BSc in Automation and Computer-Integrated Technologies (2021 - 2025)
 ## Certifications
 
 - **The Complete JavaScript Course 2023: From Zero to Expert**  
-  [Certificate](https://ua.udemy.com/certificate/UC-b93b0372-bcab-4470-a0ec-45546c045ee8/)
+  [Certificate](https://github.com/user-attachments/files/16642052/certiticate-js.pdf)
+
+- **React & TypeScript - The Practical Guide**  
+  [Certificate](https://github.com/user-attachments/files/16642047/certiticate-ts.pdf)
 
 ## Projects
 
